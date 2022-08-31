@@ -5,11 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60959de0-e574-4f86-a564-d51fef6bf8de" name="Changes" comment="More">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/Thread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/ThreadingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pault/advjava/SerialDeserialDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/SerialDeserialDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pault/advjava/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/enumeration/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pault/advjava/Day.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/enumeration/Day.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pault/advjava/DemoCustomAnno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/annotations/DemoCustomAnno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pault/advjava/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/annotations/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pault/advjava/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/enumeration/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pault/advjava/MarkerAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/annotations/MarkerAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pault/advjava/MyCustomAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/annotations/MyCustomAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pault/advjava/SerialDeserialDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/serialization/SerialDeserialDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pault/advjava/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/serialization/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pault/advjava/Thread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/threading/Thread1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pault/advjava/Thread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/threading/Thread2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pault/advjava/ThreadingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/threading/ThreadingDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,11 +66,11 @@
   </component>
   <component name="RunManager" selected="Application.ThreadingDemo">
     <configuration name="DemoCustomAnno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pault.advjava.DemoCustomAnno" />
+      <option name="MAIN_CLASS_NAME" value="com.pault.advjava.annotations.DemoCustomAnno" />
       <module name="advancedJava2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pault.advjava.*" />
+          <option name="PATTERN" value="com.pault.advjava.enumeration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,11 +79,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pault.advjava.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.pault.advjava.enumeration.Main" />
       <module name="advancedJava2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pault.advjava.*" />
+          <option name="PATTERN" value="com.pault.advjava.enumeration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,11 +92,11 @@
       </method>
     </configuration>
     <configuration name="SerialDeserialDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pault.advjava.SerialDeserialDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.pault.advjava.serialization.SerialDeserialDemo" />
       <module name="advancedJava2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pault.advjava.*" />
+          <option name="PATTERN" value="com.pault.advjava.enumeration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +105,11 @@
       </method>
     </configuration>
     <configuration name="ThreadingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pault.advjava.ThreadingDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.pault.advjava.threading.ThreadingDemo" />
       <module name="advancedJava2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pault.advjava.*" />
+          <option name="PATTERN" value="com.pault.advjava.enumeration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661955244420</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="More">
+      <created>1661956138068</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661956138068</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

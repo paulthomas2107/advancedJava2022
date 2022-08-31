@@ -1,4 +1,4 @@
-package com.pault.advjava;
+package com.pault.advjava.annotations;
 
 import java.lang.reflect.Method;
 

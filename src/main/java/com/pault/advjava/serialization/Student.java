@@ -1,4 +1,4 @@
-package com.pault.advjava;
+package com.pault.advjava.serialization;
 
 import lombok.*;
 
