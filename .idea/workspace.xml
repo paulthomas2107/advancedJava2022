@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60959de0-e574-4f86-a564-d51fef6bf8de" name="Changes" comment="More">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/threading/MathRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/threading/MathThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/threading/MathThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/threading/MathUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/autoboxing/AutoboxingDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pault/advjava/threading/ThreadingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/threading/ThreadingDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +53,13 @@
       <recent name="com.pault.advjava" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MathRunner">
-    <configuration name="DemoCustomAnno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pault.advjava.annotations.DemoCustomAnno" />
+  <component name="RunManager" selected="Application.AutoboxingDemo">
+    <configuration name="AutoboxingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pault.advjava.autoboxing.AutoboxingDemo" />
       <module name="advancedJava2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pault.advjava.enumeration.*" />
+          <option name="PATTERN" value="com.pault.advjava.autoboxing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pault.advjava.enumeration.Main" />
+    <configuration name="DemoCustomAnno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pault.advjava.annotations.DemoCustomAnno" />
       <module name="advancedJava2022" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AutoboxingDemo" />
         <item itemvalue="Application.MathRunner" />
         <item itemvalue="Application.ThreadingDemo" />
         <item itemvalue="Application.SerialDeserialDemo" />
         <item itemvalue="Application.DemoCustomAnno" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661956658315</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="More">
+      <created>1661958564787</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661958564787</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
