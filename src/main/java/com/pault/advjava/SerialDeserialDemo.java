@@ -6,7 +6,7 @@ public class SerialDeserialDemo {
 
     public static void main(String[] args) {
 
-        Student student = new Student("Paul", 55, "Cheshire");
+        Student student = new Student("Paul", 55, "Cheshire", "Hello");
 
         String filename = "test.txt";
         FileOutputStream fileOut = null;
