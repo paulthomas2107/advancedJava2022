@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60959de0-e574-4f86-a564-d51fef6bf8de" name="Changes" comment="More">
-      <change afterPath="$PROJECT_DIR$/postgresql-42.5.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/jdbc/JdbcDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pault/advjava/jdbc/JdbcDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/jdbc/JdbcDemoWithPostgres.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,7 @@
       <recent name="com.pault.advjava" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JdbcDemo">
+  <component name="RunManager" selected="Application.JdbcDemoWithPostgres">
     <configuration name="AutoboxingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pault.advjava.autoboxing.AutoboxingDemo" />
       <module name="advancedJava2022" />
@@ -98,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JdbcDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pault.advjava.jdbc.JdbcDemo" />
+    <configuration name="JdbcDemoWithPostgres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pault.advjava.jdbc.JdbcDemoWithPostgres" />
       <module name="advancedJava2022" />
       <extension name="coverage">
         <pattern>
@@ -126,7 +124,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JdbcDemo" />
+        <item itemvalue="Application.JdbcDemoWithPostgres" />
         <item itemvalue="Application.CharacterStreamDemo" />
         <item itemvalue="Application.ByteStreamExample" />
         <item itemvalue="Application.AutoboxingDemo" />
@@ -199,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661962285744</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="More">
+      <created>1661965129529</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661965129529</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
