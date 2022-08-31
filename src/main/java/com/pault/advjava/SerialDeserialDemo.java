@@ -9,8 +9,8 @@ public class SerialDeserialDemo {
         Student student = new Student("Paul", 55, "Cheshire", "Hello");
 
         String filename = "test.txt";
-        FileOutputStream fileOut = null;
-        ObjectOutputStream objOut = null;
+        FileOutputStream fileOut;
+        ObjectOutputStream objOut;
 
         // Serialize
         try {
@@ -27,8 +27,8 @@ public class SerialDeserialDemo {
         }
 
         // Deserialize
-        FileInputStream fileIn = null;
-        ObjectInputStream objIn = null;
+        FileInputStream fileIn;
+        ObjectInputStream objIn;
         try {
             fileIn = new FileInputStream(filename);
             objIn = new ObjectInputStream(fileIn);

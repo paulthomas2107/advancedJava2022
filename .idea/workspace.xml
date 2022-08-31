@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60959de0-e574-4f86-a564-d51fef6bf8de" name="Changes" comment="More">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/Thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/Thread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/ThreadingDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pault/advjava/SerialDeserialDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/SerialDeserialDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pault/advjava/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +55,7 @@
       <recent name="com.pault.advjava" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SerialDeserialDemo">
+  <component name="RunManager" selected="Application.ThreadingDemo">
     <configuration name="DemoCustomAnno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pault.advjava.DemoCustomAnno" />
       <module name="advancedJava2022" />
@@ -93,8 +95,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pault.advjava.ThreadingDemo" />
+      <module name="advancedJava2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pault.advjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadingDemo" />
         <item itemvalue="Application.SerialDeserialDemo" />
         <item itemvalue="Application.DemoCustomAnno" />
         <item itemvalue="Application.Main" />
@@ -124,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661952744660</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="More">
+      <created>1661955244420</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661955244420</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
