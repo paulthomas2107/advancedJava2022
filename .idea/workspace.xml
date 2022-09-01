@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60959de0-e574-4f86-a564-d51fef6bf8de" name="Changes" comment="More">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/springframework/GreetingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/springframework/ServingWebContentApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/springframework/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/greeting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/springframework/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pault/advjava/springframework/HelloController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +20,8 @@
         <option value="Enum" />
         <option value="AnnotationType" />
         <option value="package-info" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,13 +60,13 @@
       <recent name="com.pault.advjava" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ServingWebContentApplication">
-    <configuration name="FutureDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pault.advjava.concurrency.FutureDemo" />
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pault.advjava.springframework.Application" />
       <module name="advancedJava2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pault.advjava.concurrency.*" />
+          <option name="PATTERN" value="com.pault.advjava.springframework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pault.advjava.concurrency.Main" />
+    <configuration name="FutureDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pault.advjava.concurrency.FutureDemo" />
       <module name="advancedJava2022" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application" />
         <item itemvalue="Application.ServingWebContentApplication" />
         <item itemvalue="Application.NIOExample" />
         <item itemvalue="Application.RegExDemo" />
         <item itemvalue="Application.FutureDemo" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662047337559</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="More">
+      <created>1662056342385</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1662056342385</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
