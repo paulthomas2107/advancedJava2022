@@ -28,6 +28,7 @@ public class FutureDemo {
         }  catch (ExecutionException | InterruptedException | TimeoutException e) {
             future.cancel(true);
             future.isDone();
+            future.isCancelled();
             throw new RuntimeException(e);
         }
 
